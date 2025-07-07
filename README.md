@@ -1,6 +1,6 @@
 # Colab All-In-One Downloader
 
-[![Open In Colab](https://colab.research.google.com/github/nanfenggushi/colab-all-in-one-downloader/blob/main/colab_all_in_one_downloader.ipynb)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nanfenggushi/colab-all-in-one-downloader/blob/main/colab_all_in_one_downloader.ipynb)
 
 A stable, reliable, and powerful Google Colab notebook designed to download files from various sources directly to your Google Drive. Tired of other Colab downloaders breaking? This one is built to last, with clean code and a focus on stability.
 
